@@ -1,0 +1,14 @@
+export const GET_PROD_BY_PRICE = 'get_prod_by_price';
+export const ERROR_GLOBAL = 'error_global';
+export const SUCCESS_GLOBAL = 'success_global';
+export const CLEAR_NOTIFICATION = 'clear_notification';
+export const AUTH_USER = 'auth_user';
+export const SIGN_OUT = 'sign_out';
+export const UPDATE_USER_PROFILE = 'update_user_profile' 
+export const GET_PROD_PAGINATE = 'get_prod_paginate'
+export const REMOVE_PRODUCT = 'remove_product';
+export const PRODUCT_ADD = 'product_add';
+export const CLEAR_PRODUCT_ADD = 'clear_product_add'
+export const GET_PROD_BY_ID = 'get_prod_by_id';
+export const CLEAR_CURRENT_PRODUCT = 'clear_current_product'
+export const USER_ADD_TO_CART = 'user_add_to_cart'
