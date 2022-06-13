@@ -83,11 +83,8 @@ const Shop = () => {
                                         resetSearch={()=>handleResetSearch()}
                                       />
                                     </>
-                                    
                                     :null
                                 }
-
-
                             </div>
 
                         </div>
